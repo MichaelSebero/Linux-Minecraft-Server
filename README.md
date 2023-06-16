@@ -42,4 +42,4 @@ cd /home/$USER/Minecraft_Server && java -Xmx4G -Xmx8G -jar server.jar nogui
 
 . If you have multiple versions of Java installed you'll need to remove one of them to get the server running correctly. `jdk8-openjdk` is used for 1.12 and `jdk17-openjdk` is used for modern versions.
 
-. Each Forge version requires the latest version.
+. Each Forge server requires the latest version of Forge clientside.
