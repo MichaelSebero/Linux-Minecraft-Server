@@ -5,9 +5,9 @@
 
 ## How to Install
 ```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/Linux-Minecraft-Server/main/install.sh
+curl -LO https://raw.githubusercontent.com/MichaelSebero/Linux-Minecraft-Server/main/installer.sh
 
-sh install.sh
+sh installer.sh
 ```
 . The system will reboot after the installation is over.
 
