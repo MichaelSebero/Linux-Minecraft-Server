@@ -38,7 +38,7 @@ cd /home/$USER/Minecraft_Server && java -Xmx4G -Xmx8G -jar server.jar nogui
 
 . You'll have to invite your friends to your Haguichi network "it's called Hamachi on Windows" and provide them with the network's IPv4 address to connect with the server.
 
-. Your Haguichi IPv4 address will look something like this `25.49.96.2` or `25.49.89.92`.
+. Your Haguichi IPv4 address will look something like this `25.49.926.122`
 
 . If you have multiple versions of Java installed you'll need to remove one of them to get the server running correctly. `jdk8-openjdk` is used for 1.12 and `jdk17-openjdk` is used for modern versions.
 
